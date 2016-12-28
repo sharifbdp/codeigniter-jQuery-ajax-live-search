@@ -10,6 +10,12 @@ Create a database and import from the following directory -
 DATABASE/fruits.sql
 ```
 
+Modify base url into the config file - 
+
+```bash
+application/config/config.php
+```
+
 Modify the database credential - 
 
 ```bash
