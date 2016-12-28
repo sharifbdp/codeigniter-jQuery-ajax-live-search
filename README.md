@@ -4,12 +4,12 @@
 ```bash
 $ git clone https://github.com/sharifbdp/codeigniter-jQuery-ajax-live-search
 ```
-Create a database and import from the following directory
+Create a database and import from the following directory - 
 
 ```bash
-applicat
+DATABASE/fruits.sql
 
-Modify the database credential
+Modify the database credential - 
 ```bash
 application/config/database.php
 ```
