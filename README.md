@@ -8,8 +8,10 @@ Create a database and import from the following directory -
 
 ```bash
 DATABASE/fruits.sql
+```
 
 Modify the database credential - 
+
 ```bash
 application/config/database.php
 ```
