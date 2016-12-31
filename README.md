@@ -4,7 +4,7 @@
 ```bash
 $ git clone https://github.com/sharifbdp/codeigniter-jQuery-ajax-live-search
 ```
-Create a database and import from the following directory - 
+Create a database and import the the following dummy databasse - 
 
 ```bash
 DATABASE/fruits.sql
